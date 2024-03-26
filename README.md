@@ -1,4 +1,12 @@
 ### Hi there 👋
+<h1 align="center">Hi, I'm Nick Menshikov</a>
+<h3 align="center">Student of the Faculty of Computer Science at Voronezh State University</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=menshikovnik)](https://github.com/menshikovnik/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=menshikovnik)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=menshikovnik&theme=solarized_dark)
 
 <!--
 **menshikovnik/menshikovnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
