@@ -7,7 +7,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=menshikovnik)](https://github.com/menshikovnik/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=menshikovnik&repo=cg-software-rendering&theme=solarized_dark)](https://github.com/StackTraceSoftware/Trace-Desktop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=menshikovnik&repo=Trace-Desktop&theme=solarized_dark)](https://github.com/StackTraceSoftware/Trace-Desktop)
 
 ![Metrics](/github-metrics.svg)
 
