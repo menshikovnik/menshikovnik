@@ -5,8 +5,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=menshikovnik)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=menshikovnik)](https://github.com/menshikovnik/github-readme-stats)
-
 ![Metrics](/github-metrics.svg)
 
 <!--
