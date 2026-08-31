@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nick Menshikov 
 👋
 </a>
-<h3 align="center">Student of the Faculty of Computer Science at Voronezh State University</h3>
+<h3 align="center">Java Software Developer</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=menshikovnik)](https://git.io/streak-stats)
 
